@@ -13,6 +13,13 @@ Design and analyze a scramjet propulsion system capable of sustaining hypersonic
 ├── TO-DO.md ← Live task tracker
 ├── docs/ ← Background theory, design notes
 ├── analysis/ ← Scripts and tools for performance/cycle analysis
+│   ├── scram_cycle_M8.m          ← requirement 2b
+│   ├── massflow_sizing.m         ← requirement 2c
+│   ├── inlet_3shock.m            ← requirement 2d
+│   ├── nozzle_sizing.m           ← requirements 2e–2f
+│   └── utils/
+│       ├── atmos_isa.m
+│       └── obliqueShock.m
 ├── models/ ← Flowpath geometry, isolator, combustor/nozzle models
 ├── figures/ ← Diagrams and result plots
 └── reference/ ← Supporting research papers and data

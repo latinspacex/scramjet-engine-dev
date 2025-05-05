@@ -6,7 +6,7 @@
 - [x] Create GitHub repository
 - [x] Link VS Code to GitHub repo
 - [x] Define folder structure (`docs/`, `analysis/`, `models/`, etc.)
-- [ ] Upload this TO-DO list and README
+- [x] Upload this TO-DO list and README
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 🧪 Analysis & Modeling
 - [ ] Define flight conditions: Mach, altitude, temperature
-- [ ] Perform ideal Brayton cycle analysis (MATLAB or Excel)
+- [ ] Perform ideal Brayton cycle analysis (MATLAB)
 - [ ] Estimate specific thrust, TSFC, fuel-air ratio
 - [ ] Run CEA simulations for combustion temperature and species
 - [ ] Size isolator, combustor, and nozzle sections
