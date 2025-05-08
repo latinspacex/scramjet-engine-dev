@@ -18,4 +18,4 @@ AR_vec = [ ...
     45.31722, 47.43202, 51.35952 ];
 
 %% 2. .mat for interpolation in scram_cycle
-save('analysis/nozzle_data.mat', 'NPR_vec', 'AR_vec');
+save('scramjet/analysis/nozzle_data.mat', 'NPR_vec', 'AR_vec');
